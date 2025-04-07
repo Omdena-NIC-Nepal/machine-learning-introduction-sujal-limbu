@@ -1,0 +1,4 @@
+# .gitignore
+data/processed/
+scripts/*.py
+__pycache__
